@@ -891,7 +891,7 @@ section span{
           alt="logo"
         />
         <a href="https://t.me/anas_tayyar">
-          <h2 class="name">Qbittorrent Selection</h2>
+          <h2 class="name">Mirror Leech</h2>
         </a>
       </div>
       <div class="social">
